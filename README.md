@@ -56,7 +56,7 @@
 <div align="center">
 <h2 align="center" style="margin: 4px 4px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=kato223272&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kato223272)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=kato223272&theme=material-palenight)](https://github.com/kato223272)
+[![](https://github-readme-stats.vercel.app/api?username=JoselinKato2601&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kato223272)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JoselinKato2601&theme=material-palenight)](https://github.com/kato223272)
 </div>
 
